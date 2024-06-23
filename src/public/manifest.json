@@ -1,6 +1,6 @@
 {
-    "name": "freechess",
-    "short_name": "freechess",
+    "name": "Game Report",
+    "short_name": "Game Report",
     "description": "Generate classifications for your Chess moves, for free. Available @ chess.wintrcat.uk \n Enter a game by its PGN or pick a game from your Chess.com / Lichess.org account and have it analysed so that you can see where your mistakes and brilliancies are.",
     "start_url": "/",
     "display": "standalone",
